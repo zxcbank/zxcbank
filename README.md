@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there, I'm Using What's App 🍷
 
-<!--
-**zxcbank/zxcbank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm ITMO SE27** student from **Saint-P**, <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg" width="20" alt="Флаг России">
 
-Here are some ideas to get you started:
+## Hard skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width = "100" title = "C++"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width = "100" title = "github"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width = "100" title = "python"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" width ="100" title="Cmake" />
+
+## Languages: 
+Russian (original), English C1.
+
+## Projects:
+[SearchEngine](https://github.com/zxcbank/11SimpleSearchEngine),
+[HammingArch](https://github.com/zxcbank/OP-6),
+[WeatherForecast](https://github.com/zxcbank/7Weather).
+
+## Contacts:
+          
+[tg](https://t.me/kkkombinator)
+          
+
