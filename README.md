@@ -18,7 +18,7 @@ Russian (original), English C1.
 
 ## Leetcode:
 
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=knight80pod)]
+![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=knight80pod&theme=dark)]
 
 
 ## Contacts:
