@@ -17,7 +17,7 @@ Russian (original), English C1.
 [WeatherForecast](https://github.com/zxcbank/7Weather).
 
 ##Leetcode
-[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=your_leetcode_username)](https://leetcode.com/mainmama300)
+[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=your_leetcode_username)](https://leetcode.com/knight80pod)
 
 
 ## Contacts:
