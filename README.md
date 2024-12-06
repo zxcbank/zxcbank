@@ -16,6 +16,10 @@ Russian (original), English C1.
 [HammingArch](https://github.com/zxcbank/OP-6),
 [WeatherForecast](https://github.com/zxcbank/7Weather).
 
+##Leetcode
+[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=your_leetcode_username)](https://leetcode.com/mainmama300)
+
+
 ## Contacts:
           
 [tg](https://t.me/kkkombinator)
