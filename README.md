@@ -16,7 +16,7 @@ Russian (original), English C1.
 [HammingArch](https://github.com/zxcbank/OP-6),
 [WeatherForecast](https://github.com/zxcbank/7Weather).
 
-## Leetcode:
+# LeetCode Stats
 ![LeetCode](https://img.shields.io/badge/LeetCode-knight80pod-blue)
 
 
