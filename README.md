@@ -17,7 +17,8 @@ Russian (original), English C1.
 [WeatherForecast](https://github.com/zxcbank/7Weather).
 
 # LeetCode Stats
-![LeetCode](https://img.shields.io/badge/LeetCode-knight80pod-blue)
+
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=knight80pod)
 
 
 ## Contacts:
