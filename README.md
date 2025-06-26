@@ -21,7 +21,8 @@ Russian (original), English C1.
 ## Projects:
 [SearchEngine](https://github.com/zxcbank/11SimpleSearchEngine),
 [HammingArch](https://github.com/zxcbank/OP-6),
-[WeatherForecast](https://github.com/zxcbank/7Weather).
+[WeatherForecast](https://github.com/zxcbank/7Weather),
+[Micro-services-with-java](https://github.com/zxcbank/microservices-in-java).
 
 # LeetCode Stats
 
