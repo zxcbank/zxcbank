@@ -25,8 +25,7 @@ Russian (original), English C1.
 [Micro-services-with-java](https://github.com/zxcbank/microservices-in-java).
 
 # LeetCode Stats
-
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=main300)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/main300?theme=light&font=baloo)](https://leetcode.com/main300/)
 
 
 ## Contacts:
