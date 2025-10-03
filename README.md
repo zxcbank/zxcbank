@@ -29,7 +29,7 @@ Russian (original), English C1.
 [Micro-services-with-java](https://github.com/zxcbank/microservices-in-java),
 [restful-service in go](https://github.com/zxcbank/L0_WB),
 [RISC-V cache simulation](https://github.com/zxcbank/CacheSimulation-RISC-V.git),
-[rmp-project (private)](https://t.me/RepetMarketPlace)
+[rmp-project (private go project)](https://t.me/RepetMarketPlace)
 
 
 # LeetCode Stats
