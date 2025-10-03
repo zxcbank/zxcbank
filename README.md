@@ -26,7 +26,11 @@ Russian (original), English C1.
 [SearchEngine](https://github.com/zxcbank/11SimpleSearchEngine),
 [HammingArch](https://github.com/zxcbank/OP-6),
 [WeatherForecast](https://github.com/zxcbank/7Weather),
-[Micro-services-with-java](https://github.com/zxcbank/microservices-in-java).
+[Micro-services-with-java](https://github.com/zxcbank/microservices-in-java),
+[restful-service in go](https://github.com/zxcbank/L0_WB),
+[RISC-V cache simulation](https://github.com/zxcbank/CacheSimulation-RISC-V.git),
+[rmp-project (private)](https://t.me/RepetMarketPlace)
+
 
 # LeetCode Stats
 [![LeetCode Stats](https://leetcard.jacoblin.cool/main300?theme=light&font=baloo)](https://leetcode.com/main300/)
