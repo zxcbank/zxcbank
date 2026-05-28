@@ -1,6 +1,6 @@
 ## Hi there, I'm Svytoslav Zaimkin
 
-**I'm ITMO SE27** student from **Saint-P**, <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg" width="20" alt="Флаг России">
+**I'm ITMO SE28** student from **Saint-P**, <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg" width="20" alt="Флаг России">
 
 ## Hard skills:
 
